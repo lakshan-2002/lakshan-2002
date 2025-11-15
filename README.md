@@ -11,16 +11,10 @@
 
 ## 🚀 About Me
 
-```javascript
-const lakshan = {
-    location: "Sri Lanka 🇱🇰",
-    currentFocus: "Java | Spring Boot | Microservices",
-    role: "Backend Developer",
-    interests: ["Distributed Systems", "Cloud Architecture", "API Design"],
-    askMeAbout: ["Java", "Spring Boot", "REST APIs", "System Design"],
-    reachMe: "lakshan.imantha02@gmail.com"
-};
-```
+- 🌱 I'm currently learning **Java, Spring Boot and Microservices**
+- 👨‍💻 All of my projects are available at [https://portfolly.io/lakshan-imantha](https://portfolly.io/lakshan-imantha)
+- 💬 Ask me about **Java and Spring Boot**
+- 📫 How to reach me: **lakshan.imantha02@gmail.com**
 
 <br>
 
