@@ -60,7 +60,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshan-2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshan-2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan-2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
 </div>
 
@@ -68,22 +68,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan-2002&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshan-2002&theme=tokyonight" alt="Profile Summary" />
-</div>
-
 <br>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshan-2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C,-B" alt="Trophies" />
-</div>
-
-<div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=lakshan-2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshan-2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </div>
 
 <br>
